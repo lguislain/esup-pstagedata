@@ -12,6 +12,7 @@
 	 
 
 ## Correction
+	 2018/06/08 - Correction des fichiers sql - table NAF_N1 libellé passé à 154
 	 2018/06/08 - Correction des fichiers sql - insertion des données
 	 2018/06/08 - Correction civilité pour monsieur M. et non Mr
 	 				  “Mr” est strictement réservé à l’abréviation de “Mister”
